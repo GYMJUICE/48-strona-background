@@ -1,0 +1,13 @@
+header{
+    background-image: url("background.jpg");
+    color: white;
+}
+.omnie, p, header{
+    text-align: center;
+}
+form, input{
+    margin: 10px;
+}
+input{
+    padding:10px;
+}
