@@ -1,5 +1,6 @@
 header{
     background-image: url("background.jpg");
+    background-size: cover;
     color: white;
 }
 .omnie, p, header{
